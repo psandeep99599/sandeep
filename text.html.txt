@@ -1,0 +1,8 @@
+<html>
+	<head>My own website</head>
+	<body>
+		<h1>i love coffee</h1>
+		<p>do you like to have some</p>
+	</body>
+	<img src="download.jpg" width=500/>
+</html>
